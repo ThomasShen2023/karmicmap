@@ -33,7 +33,7 @@
 
 ## Contact · 联系方式
 
-**pronghorn@gmail.com**
+**pronghorn05@gmail.com**
 
 Please describe your intended use case, expected scale, and organization name.
 请说明使用场景、预计规模及所属组织。
