@@ -158,7 +158,7 @@ All built locally. All privacy-first. All in one week.
 
 Licensed under [AGPL-3.0](LICENSE).
 Free for personal and non-commercial use.
-**Commercial use requires written authorization:** pronghorn@gmail.com
+**Commercial use requires written authorization:** pronghorn05@gmail.com
 
 See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for details.
 
@@ -233,7 +233,7 @@ See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for details.
 © 2025 ThomasShen2026 · 保留所有权利
 
 基于 [AGPL-3.0](LICENSE) 开源，个人非商业使用免费。
-**商业用途需授权：** pronghorn@gmail.com
+**商业用途需授权：** pronghorn05@gmail.com
 
 ---
 
