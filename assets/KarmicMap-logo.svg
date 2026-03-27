@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" width="500" height="600">
+
+  <g transform="translate(250,210)">
+
+    <!-- 白色底圆 -->
+    <circle cx="0" cy="0" r="160" fill="#ffffff"/>
+
+    <!-- 左半蓝色大区 -->
+    <path d="M0,-160 A160,160 0 0,0 0,160 Z" fill="#1e3ab8"/>
+
+    <!-- 上小圆：白色（白鱼身体上半，嵌入蓝区） -->
+    <circle cx="0" cy="-80" r="80" fill="#ffffff"/>
+
+    <!-- 下小圆：蓝色（蓝鱼身体下半，嵌入白区） -->
+    <circle cx="0" cy="80" r="80" fill="#1e3ab8"/>
+
+    <!-- 蓝鱼的眼（白色大圈+蓝色小圈） -->
+    <circle cx="0" cy="-80" r="26" fill="#ffffff"/>
+    <circle cx="0" cy="-80" r="11" fill="#1e3ab8"/>
+
+    <!-- 白鱼的眼（蓝色大圈+白色小圈） -->
+    <circle cx="0" cy="80" r="26" fill="#1e3ab8"/>
+    <circle cx="0" cy="80" r="11" fill="#ffffff"/>
+
+    <!-- 外圆描边 -->
+    <circle cx="0" cy="0" r="160" fill="none" stroke="#1e3ab8" stroke-width="7"/>
+
+  </g>
+
+  <text x="250" y="416"
+        font-family="'PingFang SC','STHeiti','Microsoft YaHei',sans-serif"
+        font-size="42" font-weight="700"
+        fill="#1e3ab8" text-anchor="middle" letter-spacing="6">因果智元</text>
+
+  <text x="250" y="462"
+        font-family="'Inter',system-ui,sans-serif"
+        font-size="22" font-weight="600"
+        fill="#1e3ab8" text-anchor="middle" letter-spacing="3">KarmicMap</text>
+
+  <text x="250" y="495"
+        font-family="'Inter',system-ui,sans-serif"
+        font-size="13" font-weight="400"
+        fill="#1e3ab8" text-anchor="middle" letter-spacing="2" opacity="0.55">Making Causality Visible</text>
+
+</svg>
